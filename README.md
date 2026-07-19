@@ -42,9 +42,6 @@ Bablade_Wallpapers/
 Designed for:
 
 - 1920×1080 (Full HD)
-- 2560×1440 (QHD)
-- 3840×2160 (4K)
-- Ultrawide (coming soon)
 
 ---
 
